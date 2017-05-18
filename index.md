@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/Tsouto/Thiagomendes/edit/m
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
